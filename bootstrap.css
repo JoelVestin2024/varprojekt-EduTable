@@ -110,5 +110,5 @@ background-color: #f2f2f2;
 .profiles{
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
+    align-items: normal;
 }
