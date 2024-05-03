@@ -108,6 +108,10 @@ footer img{
     background-color: #b6b6b6;
 }
 
+.card-body{
+    background-color: #333;
+}
+
 .profiles{
     display: flex;
     flex-flow: row wrap;
