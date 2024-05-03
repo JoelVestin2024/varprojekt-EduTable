@@ -3,7 +3,7 @@ body{
     min-height: 100vh;
 }
 
-.col-12{
+header{
   background-color: #b0d0eb;
   padding: 20px;
   width: 100%;
