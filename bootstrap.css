@@ -109,7 +109,6 @@ background-color: #f2f2f2;
 
 .profiles{
     display: flex;
-    flex-flow: column;
-    height: 100%;
-    justify-content: space-around;
+    flex-flow: row;
+    justify-content: space-between;
 }
