@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    min-height: 100vh;
+}
+
+.col-12{
+  background-color: #b0d0eb;
+  padding: 20px;
+  width: 100%;
+}
+
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: #505050;
+}
+
+h1{
+  font-size: 3em;
+}
+
+
+h1, h2{
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  color: #fff;
+}
+
+.col-2{
+  background-color: #a662be;
+  padding: 20px;
+  border-right: 5px #b0d0eb solid;
+  white-space: nowrap;
+}
+
+nav ul{
+  list-style-type: none;
+  padding: 0;
+}
+
+nav{
+  overflow: auto;
+}
+
+nav ul li{
+  margin-bottom: 10px;
+}
+
+a:hover{
+  color: rgb(255, 105, 180);
+
+}
+
+nav ul li a{
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.col-10{
+  padding: 2em;
+  background-color: #b8b8b8;
+}
+
+footer{
+  background-color: #333;
+  padding: 3em;
+  display: flex;
+  justify-content: space-between;
+  background-color: #3a3a3a;
+  width: 100%;
+}
+
+footer img{
+  width: 5em;
+  height: 5em;
+}
+
+.tc-logo{
+  width: 10em;
+  height: 10em;
+}
+
+.logotype{
+  width: 20em;
+  height: 10em;
+  margin-left: 1em;
+}
+
+.iframe-container{
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%; 
+  height: 0;
+}
+.iframe-container iframe{
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 80%;
+  height: 80%;
+}
