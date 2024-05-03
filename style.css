@@ -118,7 +118,3 @@ footer img{
     flex-flow: row wrap;
     justify-content: space-between;
 }
-
-.btn btn-primary{
-    background-color: #e79c7b;
-}
