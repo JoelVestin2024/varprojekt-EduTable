@@ -108,6 +108,9 @@ background-color: #f2f2f2;
 .card{
     background-color: #b6b6b6;
 }
+.card-body{
+    color: #bbb;
+}
 
 .profiles{
     display: flex;
