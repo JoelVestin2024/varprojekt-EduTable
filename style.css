@@ -35,7 +35,7 @@ h1, h2, h3{
 
 nav ul{
   list-style-type: none;
-  padding: 0;
+  padding: 2em;
 }
 
 nav{
