@@ -39,7 +39,12 @@ nav ul{
 }
 
 nav{
-  overflow: auto;
+  overflow: ;
+  display: block; /* Make the links block elements */
+  color: white; /* Set link color */
+  text-align: center; /* Center align text */
+  padding: 14px 16px; /* Add padding for better spacing */
+  text-decoration: none; /* Remove default underline */
 }
 
 nav ul li{
