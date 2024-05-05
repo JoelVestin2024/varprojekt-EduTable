@@ -3,7 +3,7 @@ body{
     min-height: 100vh;
 }
 
-.col-12{
+.col-12 header{
   background-color: #b0d0eb;
   width: 100%;
   padding: 2em;
@@ -64,7 +64,6 @@ nav ul li a{
 }
 
 footer{
-  background-color: #333;
   padding: 3em;
   display: flex;
   background-color: #28282B;
