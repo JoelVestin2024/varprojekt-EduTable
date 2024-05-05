@@ -31,16 +31,15 @@ h1, h2, h3{
   padding: 20px;
   border-right: 5px #b0d0eb solid;
   white-space: nowrap;
+}
+
+nav{
   overflow: auto;
 }
 
 nav ul{
   list-style-type: none;
   padding: 1em;
-}
-
-nav{
-  
 }
 
 nav ul li{
