@@ -26,11 +26,12 @@ h1, h2, h3{
   color: #f2f2f2;
 }
 
-.col-2{
+#sidebar{
   background-color: #a662be;
   padding: 20px;
   border-right: 5px #b0d0eb solid;
   white-space: nowrap;
+  overflow: auto;
 }
 
 nav ul{
@@ -39,7 +40,7 @@ nav ul{
 }
 
 nav{
-  overflow: auto;
+  
 }
 
 nav ul li{
