@@ -112,7 +112,7 @@ footer img{
     background-color: #919191;
 }
 
-article > .card{
+.profiles{
     display: flex;
     flex-flow: row wrap;
     justify-content: start;
