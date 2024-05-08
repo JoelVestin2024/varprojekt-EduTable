@@ -30,6 +30,8 @@ h1, h2, h3{
   background-color: #a662be;
   padding: 20px;
   border-right: 5px #b0d0eb solid;
+  border-left: 5px #b0d0eb solid;
+  border-bottom: 5px #b0d0eb solid;
   white-space: nowrap;
 }
 
