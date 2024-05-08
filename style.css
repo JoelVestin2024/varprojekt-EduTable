@@ -32,7 +32,6 @@ h1, h2, h3{
   border-right: 5px #b0d0eb solid;
   white-space: nowrap;
   min-width: 150px;
-  max-width: 400px;
 }
 
 nav{
@@ -65,7 +64,7 @@ nav ul li a{
   background-color: #505050;
 }
 
-footer{
+#footer{
   padding: 3em;
   display: flex;
   background-color: #28282B;
