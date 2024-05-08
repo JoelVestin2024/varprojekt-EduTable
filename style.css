@@ -71,7 +71,7 @@ nav ul li a{
   background-color: #28282B;
   width: 100%;
   flex-flow: row wrap;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 footer img{
