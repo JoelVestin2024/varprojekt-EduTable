@@ -61,6 +61,7 @@ nav ul li a{
 #main{
   padding: 2em;
   background-color: #505050;
+  width: 100%;
 }
 
 #footer{
