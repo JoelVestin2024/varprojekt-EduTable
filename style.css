@@ -114,6 +114,10 @@ footer img{
     background-color: #919191;
 }
 
+.comment-section{
+    background-color: #b6b6b6;
+}
+
 .profiles{
     display: flex;
     flex-flow: row wrap;
