@@ -31,6 +31,8 @@ h1, h2, h3{
   padding: 20px;
   border-right: 5px #b0d0eb solid;
   white-space: nowrap;
+  min-width: 200px;
+  position: fixed;
 }
 
 nav{
