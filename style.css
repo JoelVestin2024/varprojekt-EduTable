@@ -130,3 +130,7 @@ footer img{
 .accordion-body a{
     margin: 1em;
 }
+
+.accordion{
+    background-color: #b6b6b6;
+}
