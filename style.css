@@ -137,3 +137,7 @@ footer img{
     padding: 1em;
     border-radius: 2em;
 }
+
+button{
+    border-radius: 1em;
+}
