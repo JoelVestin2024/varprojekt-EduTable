@@ -123,3 +123,10 @@ footer img{
     flex-flow: row wrap;
     justify-content: start;
 }
+
+.accordion-body img{
+    margin: 1em;
+}
+.accordion-body a{
+    margin: 1em;
+}
