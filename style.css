@@ -116,6 +116,8 @@ footer img{
 
 .comment-section{
     background-color: #b6b6b6;
+    padding: 1em;
+    border-radius: 0.25em;
 }
 
 .profiles{
