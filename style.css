@@ -128,6 +128,8 @@ footer img{
 
 .accordion-body img{
     margin: 1em;
+    width: 50%;
+    height: auto;
 }
 
 .accordion-body a{
