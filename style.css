@@ -132,13 +132,6 @@ footer img{
     margin: 1em;
 }
 
-.accordion{
-    background-color: #28282B;
-    margin-top: 2em;
-    padding: 1em;
-    border-radius: 2em;
-}
-
 article > img{
     width: 60%;
     height: auto;
