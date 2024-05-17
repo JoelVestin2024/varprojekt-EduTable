@@ -2,3 +2,11 @@ h1{
   text-align: center;
   color: #e79c7b;
 }
+
+body{
+  background-image: url(https://c.pxhere.com/photos/ea/a4/balloons_children_color_balloons_colors_fiesta_globos_de_color_kids_party_office_party-1267651.jpg!d); 
+ background-repeat: no-repeat;
+ background-position: center;
+ background-attachment: fixed;
+ background-size: cover;
+}
