@@ -8,9 +8,5 @@ body{
 }
 
    #object1 {
-            width: 500px;
-            height: 200px;
-            background-color: green;
-            object-fit: none;
-            object-position: center top;
+   object-position: center top;
    }
