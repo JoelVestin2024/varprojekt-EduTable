@@ -3,7 +3,7 @@ body{
     min-height: 100vh;
 }
 
-#header{
+.header{
   background-color: #b0d0eb;
   width: 100%;
   padding: 2em;
@@ -25,7 +25,7 @@ h1, h2, h3{
   color: #f2f2f2;
 }
 
-#navbar{
+.navbar{
   background-color: #a662be;
   padding: 20px;
   border-right: 5px #b0d0eb solid;
@@ -58,13 +58,13 @@ nav ul li a{
   text-decoration: none;
 }
 
-#main{
+.main{
   padding: 2em;
   background-color: #505050;
   width: 100%;
 }
 
-#footer{
+.footer{
   padding: 3em;
   display: flex;
   background-color: #28282B;
