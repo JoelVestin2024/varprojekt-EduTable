@@ -33,13 +33,15 @@ h1, h2, h3{
   white-space: nowrap;
 }
 
-nav{
-  overflow: auto;
-}
-
-nav ul{
+/*nav ul{
   list-style-type: none;
   padding: 1em;
+}/*
+
+.navigation ul.row{
+    justify-content: space-evenly;
+    list-style-type: none;
+    padding: 1em;
 }
 
 nav ul li{
